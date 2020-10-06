@@ -90,7 +90,7 @@ In this projct we have used Sass and very little Bulma to style the website.
 ![Edit Account](docs/Edit-Account.png)
 
 
-##Roles 
+## Roles 
 
 - Kahu - Git master
 - Rafael - Product owner
@@ -100,7 +100,7 @@ In this projct we have used Sass and very little Bulma to style the website.
 Initially, as a team, we decided to go with the above roles, but while working on the project, we become more flexible and adapted to roles as per the requirement at that time. All the team members were open to changing their roles as per the requirements so that we can achieve our goal (MVP) within the set timeframe. 
 
 
-##Conflict resolution plan 
+## Conflict resolution plan 
 
 Before starting this project, we as a team decided to have some conflict resolution plan so that our experience on this project can be as smooth as possible. 
 
