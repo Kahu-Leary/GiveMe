@@ -3,15 +3,16 @@
 > GiveMe is an online platform where kiwis can donate their unwanted items to other kiwis,
   empowering the NZ community to improve sustainability and reduce the waste caused by unwanted products.
 
-#Setup
+# Setup
 To get started, clone this repo and then: 
 
+```
 cd GiveMe
 npm install
 npm run knex migrate:latest
-npm run kned seed:run
-npm run dev 
-
+npm run knex seed:run
+npm run dev
+```
 You can find the server runing on http://localhost:3000
 
 ## User stories 
