@@ -92,10 +92,10 @@ In this projct we have used Sass and very little Bulma to style the website.
 
 ##Roles 
 
-Kahu - Git master
-Rafael - Product owner
-Ben - Scrum master 
-Karishma - Front-end lead
+- Kahu - Git master
+- Rafael - Product owner
+- Ben - Scrum master 
+- Karishma - Front-end lead
 
 Initially, as a team, we decided to go with the above roles, but while working on the project, we become more flexible and adapted to roles as per the requirement at that time. All the team members were open to changing their roles as per the requirements so that we can achieve our goal (MVP) within the set timeframe. 
 
@@ -104,8 +104,8 @@ Initially, as a team, we decided to go with the above roles, but while working o
 
 Before starting this project, we as a team decided to have some conflict resolution plan so that our experience on this project can be as smooth as possible. 
 
-As a team, we decided to voice out our opinions and not to hold back our thoughts. 
-We decided to keep our conversation open and respectful. 
-As a team, we decided to ask for help at the right time and not stay block for an extended period. 
-We decided to make a collective decision while keeping what is best for our project and team. 
+- As a team, we decided to voice out our opinions and not to hold back our thoughts. 
+- We decided to keep our conversation open and respectful. 
+- As a team, we decided to ask for help at the right time and not stay block for an extended period. 
+- We decided to make a collective decision while keeping what is best for our project and team. 
 
