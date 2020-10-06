@@ -62,17 +62,17 @@ In this projct we have used Sass and very little Bulma to style the website.
 ![Components](docs/Database.jpg)
 
 ## Dependencies 
-package.json 
-jest/supertest - for testing 
-Bulma 
-authenticare
-cloudinary
-webpack
-emailjs-com
-express
-font-awesome
-knex
-sqlite3
+- [x] package.json 
+- [x] jest/supertest - for testing 
+- [x] Bulma 
+- [x] authenticare
+- [x] cloudinary
+- [x] webpack
+- [x] emailjs-com
+- [x] express
+- [x] font-awesome
+- [x] knex
+- [x] sqlite3
 
 
 ## User interface (proposal)
